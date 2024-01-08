@@ -16,9 +16,9 @@
   - generator
   - iterator
   - async generator
-  - async iterator: 🎓 know  
-  - chaining: 🎓 know 
-  - optional chaining: 🎓 know  
+  - async iterator: 👂 heard 
+  - chaining: 👂 heard
+  - optional chaining: 👂 heard 
   - IIFE: ✋ used 
   - global: ✋ used 
   - globalThis: ✋ used 
@@ -80,10 +80,10 @@
   - EventEmitter: 👂 heard
   - RegExp: 👂 heard
   - Date: ✋ used  
-  - BigInt: ✋ used  
+  - BigInt: 👂 heard
 - Infrastructure
   - V8: 👂 heard
   - Node.js: 👂 heard
-  - npm: 👂 heard
+  - npm
   - prettier
   - MDN

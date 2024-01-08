@@ -3,24 +3,24 @@
 - Syntax and concepts
   - value
   - identifier
-  - variable
+  - variable: 👂 heard
   - constant
   - scalar
   - literal
-  - expression
+  - expression: 👂 heard
   - heap
-  - function
+  - function: 👂 heard
   - procedure
-  - method
-  - class
+  - method: 👂 heard
+  - class: 👂 heard
   - prototype
   - event
-  - type
+  - type: 👂 heard
   - primitive types
   - reference types
   - flag
   - lexical scope
-  - code block
+  - code block: 👂 heard
   - conditions
   - loops
   - assignment
@@ -53,14 +53,14 @@
   - generator
   - coroutine
 - Data structures
-  - array
+  - array: 👂 heard
   - structure
   - record
   - enum
   - instance
-  - object
-  - class
-  - collection
+  - object: 👂 heard
+  - class: 👂 heard
+  - collection: 👂 heard
   - set
   - hash table
   - linked list
@@ -88,7 +88,7 @@
   - code review
   - antipatterns
   - paradigm
-  - algorithm
+  - algorithm: 👂 heard
   - magic numbers
   - hardcode
   - complexity
@@ -103,4 +103,4 @@
   - return early
   - unittest
   - git
-  - github
+  - github: 👂 heard

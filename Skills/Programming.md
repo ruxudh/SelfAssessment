@@ -9,91 +9,91 @@
   - Semantics
   - Abstraction
   - Paradigm
-  - Programm: u
-  - Programming paradigm: h
-  - Programming language: u
+  - Programm: 🖐️ used
+  - Programming paradigm: 👂 heard
+  - Programming language: 🖐️ used
   - Contract
   - Module
-  - Library: k
-  - Package: u
-  - Component: h
-  - Framework: h
-  - Platform: h
-  - Source code: h
-  - Object code: h
-  - Machine code: h
+  - Library: 🎓 known
+  - Package: 🖐️ used
+  - Component: 👂 heard
+  - Framework: 👂 heard
+  - Platform: 👂 heard
+  - Source code: 👂 heard
+  - Object code: 👂 heard
+  - Machine code: 👂 heard
   - Microcode
-  - Software engineering: h
+  - Software engineering: 👂 heard
   - Decomposition
-  - Control flow: u
+  - Control flow: 🖐️ used
   - Data flow
-  - Code reuse: u
+  - Code reuse: 🖐️ used
   - Defensive programming
-  - Don't repeat yourself (DRY): h
-  - KISS principle: h
+  - Don't repeat yourself (DRY): 👂 heard
+  - KISS principle: 👂 heard
 - Syntax and concepts
-  - Value: u
-  - Identifier: ✋ used  
-  - Variable: ✋ used  
-  - Constant: ✋ used  
-  - Scalar: ✋ used  
-  - Literal: ✋ used  
-  - Expression: ✋ used  
+  - Value: 🖐️ used
+  - Identifier: ✋: 🖐️ used
+  - Variable: ✋: 🖐️ used
+  - Constant: ✋: 🖐️ used
+  - Scalar: ✋: 🖐️ used
+  - Literal: ✋: 🖐️ used
+  - Expression: ✋: 🖐️ used
   - Heap: 👂 heard
-  - Function: ✋ used 
-  - Procedure: ✋ used 
-  - Method: ✋ used 
-  - Class: ✋ used 
-  - Prototype: ✋ used 
+  - Function: ✋: 🖐️ used
+  - Procedure: ✋: 🖐️ used
+  - Method: ✋: 🖐️ used
+  - Class: ✋: 🖐️ used
+  - Prototype: ✋: 🖐️ used
   - Event: 👂 heard
-  - Type: 🎓 know
-  - Flag: ✋ used  
-  - Lexical scope: 🎓 know 
-  - Code block: ✋ used 
-  - Conditions: ✋ used  
-  - Loops: ✋ used  
-  - Assignment: ✋ used  
+  - Type: 🎓 know 👉 Warning: not matching level and emoji
+  - Flag: ✋: 🖐️ used
+  - Lexical scope: 🎓 know  👉 Warning: not matching level and emoji
+  - Code block: ✋: 🖐️ used
+  - Conditions: ✋: 🖐️ used
+  - Loops: ✋: 🖐️ used
+  - Assignment: ✋: 🖐️ used
   - Regular expression: 👂 heard
   - Interface: 👂 heard
-  - Namespaces: h
+  - Namespaces: 👂 heard
   - Call stack: 👂 heard
-  - Naming conventions: k
-  - Coding conventions: k
-  - Camel case: k
-  - Snake case: k
+  - Naming conventions: 🎓 known
+  - Coding conventions: 🎓 known
+  - Camel case: 🎓 known
+  - Snake case: 🎓 known
   - Kebab case
   - Trailing commas
   - Return early
   - Fail-fast
 - Types
-  - Primitive types: u
-  - Reference types: u
+  - Primitive types: 🖐️ used
+  - Reference types: 🖐️ used
   - Type systems
-  - Strong typing: h
-  - Weak typing: h
-  - Duck typing: h
-  - Static typing: k
-  - Dynamic typing: k
+  - Strong typing: 👂 heard
+  - Weak typing: 👂 heard
+  - Duck typing: 👂 heard
+  - Static typing: 🎓 known
+  - Dynamic typing: 🎓 known
   - Nominal typing
   - Structural typing
-  - Explicit typing: u
+  - Explicit typing: 🖐️ used
   - Type inference
   - Covariance
   - Contravariance
 - Functions
-  - Signature: 🎓 know
-  - Argument: ✋ used  
-  - Parameter: ✋ used  
-  - Pure function: ✋ used  
-  - Lambda expression: ✋ used  
+  - Signature: 🎓 know 👉 Warning: not matching level and emoji
+  - Argument: ✋: 🖐️ used
+  - Parameter: ✋: 🖐️ used
+  - Pure function: ✋: 🖐️ used
+  - Lambda expression: ✋: 🖐️ used
   - Side effects: 👂 heard
   - Closure: 👂 heard
   - Partial application: 👂 heard
   - Currying: 👂 heard
-  - Higher order: ✋ used 
-  - Recursion: ✋ used 
-  - Tail call optimisation: ✋ used 
-  - Callback: ✋ used
+  - Higher order: ✋: 🖐️ used
+  - Recursion: ✋: 🖐️ used
+  - Tail call optimisation: ✋: 🖐️ used
+  - Callback: ✋: 🖐️ used
   - Listener: 👂 heard
   - Composition: 👂 heard
   - Pipe
@@ -105,29 +105,29 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array: ✋ used  
-  - Structure: 🎓 know 
-  - Record: ✋ used  
-  - Enum: ✋ used  
-  - Instance: ✋ used  
-  - Object: ✋ used  
-  - Collection: ✋ used  
-  - Set: k
-  - Hash table: k
-  - Linked list: k
+  - Array: ✋: 🖐️ used
+  - Structure: 🎓 know  👉 Warning: not matching level and emoji
+  - Record: ✋: 🖐️ used
+  - Enum: ✋: 🖐️ used
+  - Instance: ✋: 🖐️ used
+  - Object: ✋: 🖐️ used
+  - Collection: ✋: 🖐️ used
+  - Set: 🎓 known
+  - Hash table: 🎓 known
+  - Linked list: 🎓 known
   - Doubly list: 👂 heard
   - Unrolled list: 👂 heard
   - Circular list: 👂 heard
-  - Queue: k
-  - Stack: k
-  - Deque: k
-  - Tree: k
-  - Graph: k
-  - Iterator: ✋ used
-  - Mutable state: 🎓 know
-  - Immutable state: 🎓 know
-  - Serialization: ✋ used
-  - String parsing: ✋ used
+  - Queue: 🎓 known
+  - Stack: 🎓 known
+  - Deque: 🎓 known
+  - Tree: 🎓 known
+  - Graph: 🎓 known
+  - Iterator: ✋: 🖐️ used
+  - Mutable state: 🎓 know 👉 Warning: not matching level and emoji
+  - Immutable state: 🎓 know 👉 Warning: not matching level and emoji
+  - Serialization: ✋: 🖐️ used
+  - String parsing: ✋: 🖐️ used
   - JSON
   - JSON5
   - YAML
@@ -142,13 +142,13 @@
   - URN
   - URI
 - Process and tools
-  - Compiler: ✋ used
+  - Compiler: ✋: 🖐️ used
   - Just-in-time compilation
   - Ahead-of-time compilation
-  - Transpiler: ✋ used
-  - Linter: 🎓 know 
-  - Polyfill: 👂 heard 
-  - Interpreter: 👂 heard 
+  - Transpiler: ✋: 🖐️ used
+  - Linter: 🎓 know  👉 Warning: not matching level and emoji
+  - Polyfill: 👂 heard
+  - Interpreter: 👂 heard
   - Linker
   - Dynamic linking
   - Static linking
@@ -159,19 +159,19 @@
   - Containerization
   - Debugger: 👂 heard
   - Tracing
-  - Garbage collection: 👂 heard 
-  - Refactoring: 🎓 know
-  - Code review: 🎓 know
+  - Garbage collection: 👂 heard
+  - Refactoring: 🎓 know 👉 Warning: not matching level and emoji
+  - Code review: 🎓 know 👉 Warning: not matching level and emoji
   - Exception
   - Unittesting
-  - git: u
-  - Github: u
-  - Docker: h
-  - Kubernetes: h
+  - git: 🖐️ used
+  - Github: 🖐️ used
+  - Docker: 👂 heard
+  - Kubernetes: 👂 heard
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers: 🎓 know 
+  - Magic numbers: 🎓 know  👉 Warning: not matching level and emoji
   - Hard code: 👂 heard
   - Soft code
   - Cryptic code
@@ -202,10 +202,10 @@
   - Monkey patch
   - Yo-yo problem
 - Runtimes and virtual machines
-  - Bytecode: h
-  - V8: h
-  - VJM: h
-  - CLR: h
+  - Bytecode: 👂 heard
+  - V8: 👂 heard
+  - VJM: 👂 heard
+  - CLR: 👂 heard
   - Mono
 - Operating systems
   - Interrupts
@@ -213,12 +213,12 @@
   - Kernel
   - Ring
   - Virtual memory
-  - File system: u
-  - Linux: h
+  - File system: 🖐️ used
+  - Linux: 👂 heard
   - Unix
   - BSD
   - MacOS
-  - Windows: u
+  - Windows: 🖐️ used
   - Real-time OS
   - Embedded OS
 - Standards
@@ -234,7 +234,6 @@
   - ISO
   - MIME
   - OWASP
-  - UTF-8: h
+  - UTF-8: 👂 heard
   - W3C
   - ODMG
-

@@ -5,9 +5,9 @@
   - Imperative programming
   - Structured programming
   - Non-structured programming
-  - Functional programming: u
+  - Functional programming: 🖐️ used
   - Prototype-based programming
-  - Object-oriented programming: u
+  - Object-oriented programming: 🖐️ used
   - Object-based programming
   - Generic programming
   - Concurrent computing
@@ -27,24 +27,24 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor: u
-  - Operator `new`: u
-  - Static method: u
-  - Method: u
-  - Async method: k
-  - Getters, Setters: u
-  - Public fields: u
-  - Private fields: u
-  - Field declarations: u
-  - Inheritance: u
-  - Parent class: k
-  - Polymorphism: u
-  - Abstract class: u
-  - Interface: u
-  - Encapsulation: k
+  - Constructor: 🖐️ used
+  - Operator `new`: 🖐️ used
+  - Static method: 🖐️ used
+  - Method: 🖐️ used
+  - Async method: 🎓 known
+  - Getters, Setters: 🖐️ used
+  - Public fields: 🖐️ used
+  - Private fields: 🖐️ used
+  - Field declarations: 🖐️ used
+  - Inheritance: 🖐️ used
+  - Parent class: 🎓 known
+  - Polymorphism: 🖐️ used
+  - Abstract class: 🖐️ used
+  - Interface: 🖐️ used
+  - Encapsulation: 🎓 known
   - Hidden class
   - Object form
-  - Instance: k
+  - Instance: 🎓 known
   - Introspection
   - Reflection
   - The diamond problem

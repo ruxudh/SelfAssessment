@@ -1,94 +1,84 @@
 ## C# Language and .NET Platform
 
 - Language Basics
-  - Object-Oriented Concepts: k
-  - .NET CLI: h
-  
+  - Object-Oriented Concepts: 🎓 known
+  - .NET CLI: 👂 heard
 - Basic Programming Concepts
-  - Program Structure: k
-  - Variables and Constants: u
-  - Literals: k
-  - Data Types: u
-  - Console Input-Output: u
-  - Arithmetic Operations: u
-  - Bitwise Operations: h
-  - Assignment Operators: u
-  - Type Conversions: k
-  - Control Structures (if..else, switch, ternary): u
-  - Loops (for, while, do..while): u
-  - Arrays and Array Operations: u
-  - Methods: u
-  - Recursion: h
-  - Error Handling (try..catch): u
-  
+  - Program Structure: 🎓 known
+  - Variables and Constants: 🖐️ used
+  - Literals: 🎓 known
+  - Data Types: 🖐️ used
+  - Console Input-Output: 🖐️ used
+  - Arithmetic Operations: 🖐️ used
+  - Bitwise Operations: 👂 heard
+  - Assignment Operators: 🖐️ used
+  - Type Conversions: 🎓 known
+  - Control Structures (if..else, switch, ternary): 🖐️ used
+  - Loops (for, while, do..while): 🖐️ used
+  - Arrays and Array Operations: 🖐️ used
+  - Methods: 🖐️ used
+  - Recursion: 👂 heard
+  - Error Handling (try..catch): 🖐️ used
 - Object-Oriented Programming
-  - Classes and Objects: u
-  - Inheritance: u
-  - Polymorphism: u
-  - Encapsulation: u
-  - Abstraction: k
-  - Constructors: u
-  - Destructors: h
-  - Access Modifiers: u
-  - Properties: u
-  - Methods Overloading and Overriding: k
-  - Interfaces: u
-  - Delegates and Events: h
-  - Generics: u
-  - Exception Handling: k
-
+  - Classes and Objects: 🖐️ used
+  - Inheritance: 🖐️ used
+  - Polymorphism: 🖐️ used
+  - Encapsulation: 🖐️ used
+  - Abstraction: 🎓 known
+  - Constructors: 🖐️ used
+  - Destructors: 👂 heard
+  - Access Modifiers: 🖐️ used
+  - Properties: 🖐️ used
+  - Methods Overloading and Overriding: 🎓 known
+  - Interfaces: 🖐️ used
+  - Delegates and Events: 👂 heard
+  - Generics: 🖐️ used
+  - Exception Handling: 🎓 known
 - Advanced Features
-  - LINQ (Language Integrated Query): h
-  - Asynchronous Programming (async/await): h
+  - LINQ (Language Integrated Query): 👂 heard
+  - Asynchronous Programming (async/await): 👂 heard
   - Reflection and Attributes
-  - Nullable Types: h
+  - Nullable Types: 👂 heard
   - Dynamic Types
-  - Parallel Programming: h
-  - File I/O Operations: h
+  - Parallel Programming: 👂 heard
+  - File I/O Operations: 👂 heard
   - Regular Expressions
-  - XML and JSON Handling: h
-  - Multithreading and Synchronization: h
-
-- Collections 
-  - List<T>: u
-  - Dictionary<TKey, TValue>: u
-  - HashSet<T>: k
-  - Queue<T>: k
-  - Stack<T>: k
-  - LinkedList<T>: k
-  - SortedDictionary<TKey, TValue>: h
-  - SortedList<T, TValue>: h
-  - ReadOnlyCollection<T>: h
+  - XML and JSON Handling: 👂 heard
+  - Multithreading and Synchronization: 👂 heard
+- Collections
+  - List<T>: 🖐️ used
+  - Dictionary<TKey, TValue>: 🖐️ used
+  - HashSet<T>: 🎓 known
+  - Queue<T>: 🎓 known
+  - Stack<T>: 🎓 known
+  - LinkedList<T>: 🎓 known
+  - SortedDictionary<TKey, TValue>: 👂 heard
+  - SortedList<T, TValue>: 👂 heard
+  - ReadOnlyCollection<T>: 👂 heard
   - ObservableCollection<T>
   - ConcurrentBag<T>
   - ConcurrentDictionary<TKey, TValue>
   - ConcurrentQueue<T>
   - ConcurrentStack<T>
   - BlockingCollection<T>
-
 - Additional Libraries and Frameworks
-  - .NET Standard: h
-  - .NET Core: h
-  - ASP.NET Core: h
-  - Entity Framework: h
-  - Xamarin (for Mobile Development): h
-  - Unity (for Game Development): h
-
+  - .NET Standard: 👂 heard
+  - .NET Core: 👂 heard
+  - ASP.NET Core: 👂 heard
+  - Entity Framework: 👂 heard
+  - Xamarin (for Mobile Development): 👂 heard
+  - Unity (for Game Development): 👂 heard
 - Tools and Utilities
   - NuGet Package Manager
-  - Visual Studio IDE: h
-  - .NET CLI: h
-  - ReSharper: h
-  - Rider: u
-
+  - Visual Studio IDE: 👂 heard
+  - ReSharper: 👂 heard
+  - Rider: 🖐️ used
 - Best Practices and Design Patterns
   - SOLID Principles
   - Design Patterns (Factory, Singleton, etc.)
   - Unit Testing (using NUnit or MSTest)
-
 - Debugging and Optimization
-  - Debugging Techniques: 
+  - Debugging Techniques
   - Performance Optimization
-
 - Version Control
-  - Git (with GitHub, GitLab, Bitbucket, etc.): u
+  - Git (with GitHub, GitLab, Bitbucket, etc.): 🖐️ used

@@ -32,27 +32,26 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value 
- - Identifier: ✋ used  
-  - Variable: ✋ used  
-  - Constant: ✋ used  
-  - Scalar: ✋ used  
-  - Literal: ✋ used  
-  - Expression: ✋ used  
+  - Value
+  - Variable: ✋: 🖐️ used
+  - Constant: ✋: 🖐️ used
+  - Scalar: ✋: 🖐️ used
+  - Literal: ✋: 🖐️ used
+  - Expression: ✋: 🖐️ used
   - Heap: 👂 heard
-  - Function: ✋ used 
-  - Procedure: ✋ used 
-  - Method: ✋ used 
-  - Class: ✋ used 
-  - Prototype: ✋ used 
+  - Function: ✋: 🖐️ used
+  - Procedure: ✋: 🖐️ used
+  - Method: ✋: 🖐️ used
+  - Class: ✋: 🖐️ used
+  - Prototype: ✋: 🖐️ used
   - Event: 👂 heard
-  - Type: 🎓 know
-  - Flag: ✋ used  
-  - Lexical scope: 🎓 know 
-  - Code block: ✋ used 
-  - Conditions: ✋ used  
-  - Loops: ✋ used  
-  - Assignment: ✋ used  
+  - Type: 🎓 know 👉 Warning: not matching level and emoji
+  - Flag: ✋: 🖐️ used
+  - Lexical scope: 🎓 know  👉 Warning: not matching level and emoji
+  - Code block: ✋: 🖐️ used
+  - Conditions: ✋: 🖐️ used
+  - Loops: ✋: 🖐️ used
+  - Assignment: ✋: 🖐️ used
   - Regular expression: 👂 heard
   - Interface: 👂 heard
   - Namespaces
@@ -81,19 +80,19 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature: 🎓 know
-  - Argument: ✋ used  
-  - Parameter: ✋ used  
-  - Pure function: ✋ used  
-  - Lambda expression: ✋ used  
+  - Signature: 🎓 know 👉 Warning: not matching level and emoji
+  - Argument: ✋: 🖐️ used
+  - Parameter: ✋: 🖐️ used
+  - Pure function: ✋: 🖐️ used
+  - Lambda expression: ✋: 🖐️ used
   - Side effects: 👂 heard
   - Closure: 👂 heard
   - Partial application: 👂 heard
   - Currying: 👂 heard
-  - Higher order: ✋ used 
-  - Recursion: ✋ used 
-  - Tail call optimisation: ✋ used 
-  - Callback: ✋ used
+  - Higher order: ✋: 🖐️ used
+  - Recursion: ✋: 🖐️ used
+  - Tail call optimisation: ✋: 🖐️ used
+  - Callback: ✋: 🖐️ used
   - Listener: 👂 heard
   - Composition: 👂 heard
   - Pipe
@@ -105,13 +104,13 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array: ✋ used  
-  - Structure: 🎓 know 
-  - Record: ✋ used  
-  - Enum: ✋ used  
-  - Instance: ✋ used  
-  - Object: ✋ used  
-  - Collection: ✋ used  
+  - Array: ✋: 🖐️ used
+  - Structure: 🎓 know  👉 Warning: not matching level and emoji
+  - Record: ✋: 🖐️ used
+  - Enum: ✋: 🖐️ used
+  - Instance: ✋: 🖐️ used
+  - Object: ✋: 🖐️ used
+  - Collection: ✋: 🖐️ used
   - Set: 👂 heard
   - Hash table: 👂 heard
   - Linked list: 👂 heard
@@ -120,14 +119,14 @@
   - Circular list: 👂 heard
   - Queue: 👂 heard
   - Stack: 👂 heard
-  - Deque: ✋ used
+  - Deque: ✋: 🖐️ used
   - Tree: 👂 heard
   - Graph: 👂 heard
-  - Iterator: ✋ used
-  - Mutable state: 🎓 know
-  - Immutable state: 🎓 know
-  - Serialization: ✋ used
-  - String parsing: ✋ used
+  - Iterator: ✋: 🖐️ used
+  - Mutable state: 🎓 know 👉 Warning: not matching level and emoji
+  - Immutable state: 🎓 know 👉 Warning: not matching level and emoji
+  - Serialization: ✋: 🖐️ used
+  - String parsing: ✋: 🖐️ used
   - JSON
   - JSON5
   - YAML
@@ -142,13 +141,13 @@
   - URN
   - URI
 - Process and tools
-  - Compiler: ✋ used
+  - Compiler: ✋: 🖐️ used
   - Just-in-time compilation
   - Ahead-of-time compilation
-  - Transpiler: ✋ used
-  - Linter: 🎓 know 
-  - Polyfill: 👂 heard 
-  - Interpreter: 👂 heard 
+  - Transpiler: ✋: 🖐️ used
+  - Linter: 🎓 know  👉 Warning: not matching level and emoji
+  - Polyfill: 👂 heard
+  - Interpreter: 👂 heard
   - Linker
   - Dynamic linking
   - Static linking
@@ -159,9 +158,9 @@
   - Containerization
   - Debugger: 👂 heard
   - Tracing
-  - Garbage collection: 👂 heard 
-  - Refactoring: 🎓 know
-  - Code review: 🎓 know
+  - Garbage collection: 👂 heard
+  - Refactoring: 🎓 know 👉 Warning: not matching level and emoji
+  - Code review: 🎓 know 👉 Warning: not matching level and emoji
   - Exception
   - Unittesting
   - git
@@ -171,7 +170,7 @@
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers: 🎓 know 
+  - Magic numbers: 🎓 know  👉 Warning: not matching level and emoji
   - Hard code: 👂 heard
   - Soft code
   - Cryptic code
@@ -237,4 +236,3 @@
   - UTF-8
   - W3C
   - ODMG
-

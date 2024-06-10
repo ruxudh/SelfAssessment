@@ -33,7 +33,7 @@
   - KISS principle: h
 - Syntax and concepts
   - Value: u
- - Identifier: ✋ used  
+  - Identifier: ✋ used  
   - Variable: ✋ used  
   - Constant: ✋ used  
   - Scalar: ✋ used  

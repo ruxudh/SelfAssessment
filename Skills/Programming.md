@@ -32,31 +32,31 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
-  - Expression
-  - Heap
-  - Function
-  - Procedure
-  - Method
-  - Class
-  - Prototype
-  - Event
-  - Type
-  - Flag
-  - Lexical scope
-  - Code block
-  - Conditions
-  - Loops
-  - Assignment
-  - Regular expression
-  - Interface
+  - Value 
+ - Identifier: ✋ used  
+  - Variable: ✋ used  
+  - Constant: ✋ used  
+  - Scalar: ✋ used  
+  - Literal: ✋ used  
+  - Expression: ✋ used  
+  - Heap: 👂 heard
+  - Function: ✋ used 
+  - Procedure: ✋ used 
+  - Method: ✋ used 
+  - Class: ✋ used 
+  - Prototype: ✋ used 
+  - Event: 👂 heard
+  - Type: 🎓 know
+  - Flag: ✋ used  
+  - Lexical scope: 🎓 know 
+  - Code block: ✋ used 
+  - Conditions: ✋ used  
+  - Loops: ✋ used  
+  - Assignment: ✋ used  
+  - Regular expression: 👂 heard
+  - Interface: 👂 heard
   - Namespaces
-  - Call stack
+  - Call stack: 👂 heard
   - Naming conventions
   - Coding conventions
   - Camel case
@@ -81,21 +81,21 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature
-  - Argument
-  - Parameter
-  - Pure function
-  - Lambda expression
-  - Side effects
-  - Closure
-  - Partial application
-  - Currying
-  - Higher order
-  - Recursion
-  - Tail call optimisation
-  - Callback
-  - Listener
-  - Composition
+  - Signature: 🎓 know
+  - Argument: ✋ used  
+  - Parameter: ✋ used  
+  - Pure function: ✋ used  
+  - Lambda expression: ✋ used  
+  - Side effects: 👂 heard
+  - Closure: 👂 heard
+  - Partial application: 👂 heard
+  - Currying: 👂 heard
+  - Higher order: ✋ used 
+  - Recursion: ✋ used 
+  - Tail call optimisation: ✋ used 
+  - Callback: ✋ used
+  - Listener: 👂 heard
+  - Composition: 👂 heard
   - Pipe
   - Memoize
   - Wrapper
@@ -105,29 +105,29 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
-  - Structure
-  - Record
-  - Enum
-  - Instance
-  - Object
-  - Collection
-  - Set
-  - Hash table
-  - Linked list
-  - Doubly list
-  - Unrolled list
-  - Circular list
-  - Queue
-  - Stack
-  - Deque
-  - Tree
-  - Graph
-  - Iterator
-  - Mutable state
-  - Immutable state
-  - Serialization
-  - String parsing
+  - Array: ✋ used  
+  - Structure: 🎓 know 
+  - Record: ✋ used  
+  - Enum: ✋ used  
+  - Instance: ✋ used  
+  - Object: ✋ used  
+  - Collection: ✋ used  
+  - Set: 👂 heard
+  - Hash table: 👂 heard
+  - Linked list: 👂 heard
+  - Doubly list: 👂 heard
+  - Unrolled list: 👂 heard
+  - Circular list: 👂 heard
+  - Queue: 👂 heard
+  - Stack: 👂 heard
+  - Deque: ✋ used
+  - Tree: 👂 heard
+  - Graph: 👂 heard
+  - Iterator: ✋ used
+  - Mutable state: 🎓 know
+  - Immutable state: 🎓 know
+  - Serialization: ✋ used
+  - String parsing: ✋ used
   - JSON
   - JSON5
   - YAML
@@ -142,13 +142,13 @@
   - URN
   - URI
 - Process and tools
-  - Compiler
+  - Compiler: ✋ used
   - Just-in-time compilation
   - Ahead-of-time compilation
-  - Transpiler
-  - Linter
-  - Polyfill
-  - Interpreter
+  - Transpiler: ✋ used
+  - Linter: 🎓 know 
+  - Polyfill: 👂 heard 
+  - Interpreter: 👂 heard 
   - Linker
   - Dynamic linking
   - Static linking
@@ -157,11 +157,11 @@
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
+  - Debugger: 👂 heard
   - Tracing
-  - Garbage collection
-  - Refactoring
-  - Code review
+  - Garbage collection: 👂 heard 
+  - Refactoring: 🎓 know
+  - Code review: 🎓 know
   - Exception
   - Unittesting
   - git
@@ -171,19 +171,19 @@
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers
-  - Hard code
+  - Magic numbers: 🎓 know 
+  - Hard code: 👂 heard
   - Soft code
   - Cryptic code
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti
-  - Silver bullet
-  - Not invented here
-  - Dead code
-  - Unreachable code
-  - Duplicate code
+  - Spaghetti: 👂 heard
+  - Silver bullet: 👂 heard
+  - Not invented here: 👂 heard
+  - Dead code: 👂 heard
+  - Unreachable code: 👂 heard
+  - Duplicate code: 👂 heard
   - Premature optimization
   - Micro-optimization
   - Nested loops
@@ -237,3 +237,4 @@
   - UTF-8
   - W3C
   - ODMG
+

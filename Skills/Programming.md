@@ -9,30 +9,30 @@
   - Semantics
   - Abstraction
   - Paradigm
-  - Programm
-  - Programming paradigm
-  - Programming language
+  - Programm: u
+  - Programming paradigm: h
+  - Programming language: u
   - Contract
   - Module
-  - Library
-  - Package
-  - Component
-  - Framework
-  - Platform
-  - Source code
-  - Object code
-  - Machine code
+  - Library: k
+  - Package: u
+  - Component: h
+  - Framework: h
+  - Platform: h
+  - Source code: h
+  - Object code: h
+  - Machine code: h
   - Microcode
-  - Software engineering
+  - Software engineering: h
   - Decomposition
-  - Control flow
+  - Control flow: u
   - Data flow
-  - Code reuse
+  - Code reuse: u
   - Defensive programming
-  - Don't repeat yourself (DRY)
-  - KISS principle
+  - Don't repeat yourself (DRY): h
+  - KISS principle: h
 - Syntax and concepts
-  - Value 
+  - Value: u
  - Identifier: ✋ used  
   - Variable: ✋ used  
   - Constant: ✋ used  
@@ -55,28 +55,28 @@
   - Assignment: ✋ used  
   - Regular expression: 👂 heard
   - Interface: 👂 heard
-  - Namespaces
+  - Namespaces: h
   - Call stack: 👂 heard
-  - Naming conventions
-  - Coding conventions
-  - Camel case
-  - Snake case
+  - Naming conventions: k
+  - Coding conventions: k
+  - Camel case: k
+  - Snake case: k
   - Kebab case
   - Trailing commas
   - Return early
   - Fail-fast
 - Types
-  - Primitive types
-  - Reference types
+  - Primitive types: u
+  - Reference types: u
   - Type systems
-  - Strong typing
-  - Weak typing
-  - Duck typing
-  - Static typing
-  - Dynamic typing
+  - Strong typing: h
+  - Weak typing: h
+  - Duck typing: h
+  - Static typing: k
+  - Dynamic typing: k
   - Nominal typing
   - Structural typing
-  - Explicit typing
+  - Explicit typing: u
   - Type inference
   - Covariance
   - Contravariance
@@ -112,17 +112,17 @@
   - Instance: ✋ used  
   - Object: ✋ used  
   - Collection: ✋ used  
-  - Set: 👂 heard
-  - Hash table: 👂 heard
-  - Linked list: 👂 heard
+  - Set: k
+  - Hash table: k
+  - Linked list: k
   - Doubly list: 👂 heard
   - Unrolled list: 👂 heard
   - Circular list: 👂 heard
-  - Queue: 👂 heard
-  - Stack: 👂 heard
-  - Deque: ✋ used
-  - Tree: 👂 heard
-  - Graph: 👂 heard
+  - Queue: k
+  - Stack: k
+  - Deque: k
+  - Tree: k
+  - Graph: k
   - Iterator: ✋ used
   - Mutable state: 🎓 know
   - Immutable state: 🎓 know
@@ -164,10 +164,10 @@
   - Code review: 🎓 know
   - Exception
   - Unittesting
-  - git
-  - Github
-  - Docker
-  - Kubernetes
+  - git: u
+  - Github: u
+  - Docker: h
+  - Kubernetes: h
   - GCC
   - LLVM
 - Antipatterns
@@ -202,10 +202,10 @@
   - Monkey patch
   - Yo-yo problem
 - Runtimes and virtual machines
-  - Bytecode
-  - V8
-  - VJM
-  - CLR
+  - Bytecode: h
+  - V8: h
+  - VJM: h
+  - CLR: h
   - Mono
 - Operating systems
   - Interrupts
@@ -213,12 +213,12 @@
   - Kernel
   - Ring
   - Virtual memory
-  - File system
-  - Linux
+  - File system: u
+  - Linux: h
   - Unix
   - BSD
   - MacOS
-  - Windows
+  - Windows: u
   - Real-time OS
   - Embedded OS
 - Standards
@@ -234,7 +234,7 @@
   - ISO
   - MIME
   - OWASP
-  - UTF-8
+  - UTF-8: h
   - W3C
   - ODMG
 
